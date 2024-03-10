@@ -1,3 +1,2 @@
-﻿# pokedex
-Pokédex de Mathéo Berrez
-Projet de 3éme année
+﻿# Pokédex de Mathéo Berrez
+﻿# Projet de 3éme année
